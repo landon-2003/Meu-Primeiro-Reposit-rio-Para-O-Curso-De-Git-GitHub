@@ -1,0 +1,38 @@
+Curso De Git E GitHub
+
+Para que serve? os dois são coisas diferentes, Git=Software De Controle De Versão Github= Plataforma De Rede Social Para Programadores.
+
+Sobre GIT
+
+Git é um VCS uma ferramenta de versionamento de software, versões são importantes para programadores pois sempre lidamos com várias versões de uma mesma coisa, um exemplo de versionamento serve para gerenciar seus projetos seja sozinho ou em equipe, como se fosse uma máquina do tempo, o primeiro software de versão nasceu em 1972 era um VCS centralizado/linear após isso surgiu o modelo distribuído que agora usa um repositório local, e um repositório remoto, este o qual faremos um push pegar um commit de um repositório local e dar push no servidor o primeiro software VCS linear era a CA Software Change Manager(CCC) e após isso tivemos Source Code Control System(SCCS), Panvalet, Concurrent Version System(CVS), Apache Subversion(SVN),ClearCase,Perforce e Visual SourceSafe.
+Sobre os distribuídos temos Mercurial,Bazaar, Code Co-Op, Monotone, Fóssil, Bitkeeeper e Git.
+
+Principais Vantagens:
+-Controle De Histórico
+-Trabalho Em Equipe
+-Ramificação Do Projeto
+-Segurança
+-Organização
+
+Sobre GitHub
+
+GitHub é um dos mais famosos repositórios remotos, não só um repositório mas também uma rede social, adicionar pessoas ver códigos dos outros, fazer contatos e descobrir pessoas, 
+
+Principais Vantagens: 
+-Repositórios Ilimitados
+-Hospedagem De Código Fonte
+-Características De Rede Social
+-GitHub Pages Integrado
+-Colaboração
+
+A outros repositórios remotos como Gitlab,Bitbucket,Phabricator,Gogs,Kallithea.
+
+Evolução Do Git E GitHub
+
+Quem veio primeiro Git ou GitHub? CVS surgiu em 1985(Software Centralizado) ele foi por muitos anos o mais popular, porém tinha alguns problemas, em 2000 surgiu o SVN (Software Centralizado) ele é ativo até hoje, a versão  mais recente foi lançada em outubro de 2019,em 2000 também surgiu um software com proposta diferente ele é o BitKeeper (Software Distribuido) seu criador trabalhava junto com o desenvolvedor do Linux e mesmo sendo um software pago tinha suas versões para a comunidade, uma de suas grandes vantagens é que ele se distanciava do CVS diferente do SVN que tentava copiar o CVS mas o aprimorando, em 2004 aconteceu um problema com a criação do SourcePuller, seu criador fez uma engenharia reversa para destravar alguns recursos que a versão comunidade do BitKeeper não deveria ter, em 2005 o BitKeeper lançou sua nova licença a qual dificultava o acesso a versões passadas, fazendo quase obrigatório o uso da versão comercial, O criador do Linux revoltado com a situação ainda em 2005 optou por criar um novo software esse chamado de Git(Software Distribuido) feito em 10 dias(uma versão usável) focado em performance diminuindo o tempo médio de minutos para 1 ou 2 segundos, qual o significado de Git? um simples conjunto de três letras, outro dos motivos segundo ele é uma gíria inglesa para um cara teimoso e cabeça dura, outra das justificativas é que significa Global Information Tracker isso quando ele está funcionando quando não está pode chama-lo de Goddam idiotic Truckload Of Shit.
+
+E O GitHub?
+
+O GitHub surgiu apenas em 2008, é um software proprietário, surgiu como uma hospedagem de código, baseado em Git em 2009 já tinha mais de 46.000 repositórios, em 2010 tinha mais de 100k de usuários e mais de 1M de repositórios, em 2011 ultrapassou o SourceForge que era o local mais comum para guardar códigos, em 2013 já estava em 3M de usuários e 5M de repositórios e em 2016 ficou em 14º na lista da forbes de softwares do futuro, 2018 sofreu o maior ataque de DDoS da história, ainda em 2018 foram comprados pela Microsoft(por 7,5 BILHÕES DE DÓLARES) ela mesma hoje em dia tem projetos open-source do GitHub outra promessa da Microsoft é que o GitHub se manterá com operação independente, em 2020 o GitHub anuncia a compra da NPM, e esse mascote? Ele é o Octopus Cat criado pelo mesmo criador do mascote do twitter
+
+
